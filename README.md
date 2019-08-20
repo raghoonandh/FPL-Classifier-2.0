@@ -14,7 +14,7 @@ This repo will contain all the model outputs of FPL classifier Model for each ga
   
 
 #### Read More
-- [FPL Classifier 2.0 ](https://www.google.com)
+- [FPL Classifier 2.0 ](https://medium.com/datacomics/fpl-classifier-2-0-208d9e1e04da)
 - [Building an FPL Captain Classifier](https://medium.com/datacomics/building-an-fpl-captain-classifier-cf4ee343ebcc) 
 
  
