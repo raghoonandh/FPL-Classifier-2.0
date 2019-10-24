@@ -1,0 +1,276 @@
+nextgw,playerid,name,team_name,opponent_nextweek,probability_hit
+10,212,Ederson Santana de Moraes,Man City,Aston Villa,0.5535445946721869
+10,67,Callum Wilson,Bournemouth,Watford,0.5340263751353611
+10,214,Raheem Sterling,Man City,Aston Villa,0.5318678028956653
+10,460,Tammy Abraham,Chelsea,Burnley,0.5316207312384466
+10,11,Pierre-Emerick Aubameyang,Arsenal,Crystal Palace,0.4980867345993891
+10,192,Sadio Mané,Liverpool,Tottenham,0.4829314002080738
+10,166,Jamie Vardy,Leicester,Southampton,0.4677900871134095
+10,42,Lewis Dunk,Brighton,Everton,0.4669715544480578
+10,181,Andrew Robertson,Liverpool,Tottenham,0.4609160091496501
+10,106,David Luiz Moreira Marinho,Arsenal,Crystal Palace,0.4566175755806597
+10,187,Roberto Firmino,Liverpool,Tottenham,0.45034889629579106
+10,218,Bernardo Mota Veiga de Carvalho e Silva,Man City,Aston Villa,0.4415734930978492
+10,215,Kevin De Bruyne,Man City,Aston Villa,0.4365461558162155
+10,233,Marcus Rashford,Man Utd,Norwich,0.4306026594001043
+10,159,Ricardo Domingos Barbosa Pereira,Leicester,Southampton,0.4226714538213683
+10,377,Angelo Ogbonna,West Ham,Sheff Utd,0.41430501460398295
+10,450,Roberto Jimenez Gago,West Ham,Sheff Utd,0.4101068962191942
+10,58,Steve Cook,Bournemouth,Watford,0.4057373764196082
+10,59,Nathan Aké,Bournemouth,Watford,0.40314081918696903
+10,65,Diego Rico,Bournemouth,Watford,0.4021837114193498
+10,47,Mathew Ryan,Brighton,Everton,0.4019837392552008
+10,278,Teemu Pukki,Norwich,Man Utd,0.3995945997175671
+10,31,John McGinn,Aston Villa,Man City,0.3933574950182888
+10,219,David Silva,Man City,Aston Villa,0.3900424111460888
+10,171,James Maddison,Leicester,Southampton,0.3845017169350033
+10,287,Todd Cantwell,Norwich,Man Utd,0.3795893174605015
+10,409,Raúl Jiménez,Wolves,Newcastle,0.3776123878862497
+10,428,Wesley Moraes,Aston Villa,Man City,0.3741950628149937
+10,182,Trent Alexander-Arnold,Liverpool,Tottenham,0.3741517271616929
+10,492,Arnaut Danjuma Groeneveld,Bournemouth,Watford,0.3691021390079868
+10,14,Bernd Leno,Arsenal,Crystal Palace,0.3643670273448297
+10,448,Youri Tielemans,Leicester,Southampton,0.3554403729429713
+10,68,Joshua King,Bournemouth,Watford,0.34703775237714685
+10,148,Jordan Pickford,Everton,Brighton,0.3445745646916359
+10,29,Jack Grealish,Aston Villa,Man City,0.34455351765117465
+10,283,Emiliano Buendía,Norwich,Man Utd,0.3407076936156944
+10,161,Benjamin Chilwell,Leicester,Southampton,0.33942865609402034
+10,57,Dale Stephens,Brighton,Everton,0.3377490473977018
+10,381,Issa Diop,West Ham,Sheff Utd,0.3316017388300332
+10,150,Richarlison de Andrade,Everton,Brighton,0.3245772753833919
+10,243,Daniel James,Man Utd,Norwich,0.3174739646693673
+10,529,Fikayo Tomori,Chelsea,Burnley,0.3169985876175425
+10,488,Nicolas Pépé,Arsenal,Crystal Palace,0.3138940451577081
+10,471,Dean Henderson,Sheff Utd,West Ham,0.3138870673322707
+10,49,Pascal Groß,Brighton,Everton,0.3124595727666249
+10,494,Aaron Ramsdale,Bournemouth,Watford,0.309844264501714
+10,313,Danny Ings,Southampton,Leicester,0.3095871559411358
+10,5,Sokratis Papastathopoulos,Arsenal,Crystal Palace,0.3093775772601619
+10,152,Bernard Anício Caldeira Duarte,Everton,Brighton,0.30840515138326063
+10,111,Kepa Arrizabalaga,Chelsea,Burnley,0.30671253992125064
+10,75,Ryan Fraser,Bournemouth,Watford,0.30634443813211404
+10,3,Sead Kolasinac,Arsenal,Crystal Palace,0.3045682924862984
+10,280,Tim Krul,Norwich,Man Utd,0.3040707275165389
+10,342,Heung-Min Son,Tottenham,Liverpool,0.30357294904295945
+10,297,John Lundstram,Sheff Utd,West Ham,0.30166270560982905
+10,185,Joel Matip,Liverpool,Tottenham,0.29827214677729336
+10,467,Calum Chambers,Arsenal,Crystal Palace,0.2953842568077193
+10,457,Sébastien Haller,West Ham,Sheff Utd,0.29322329702575833
+10,463,Mason Mount,Chelsea,Burnley,0.2918448866427923
+10,293,Jack O'Connell,Sheff Utd,West Ham,0.2872355649463771
+10,235,David de Gea,Man Utd,Norwich,0.28584338169419343
+10,105,César Azpilicueta,Chelsea,Burnley,0.2857534023060182
+10,502,Neal Maupay,Brighton,Everton,0.2855052716981649
+10,534,Aaron Connolly,Brighton,Everton,0.2838547106216592
+10,160,Harry Maguire,Man Utd,Norwich,0.2814510950304525
+10,69,Dominic Solanke,Bournemouth,Watford,0.2805299019572465
+10,204,Benjamin Mendy,Man City,Aston Villa,0.2793844784769564
+10,392,Andriy Yarmolenko,West Ham,Sheff Utd,0.27764034741781485
+10,122,Aaron Wan-Bissaka,Man Utd,Norwich,0.2767811766528962
+10,172,Harvey Barnes,Leicester,Southampton,0.27635693857256605
+10,30,Anwar El Ghazi,Aston Villa,Man City,0.27518068513039423
+10,189,Alisson Ramses Becker,Liverpool,Tottenham,0.273301216541363
+10,141,Lucas Digne,Everton,Brighton,0.27316622404467017
+10,211,Gabriel Fernando de Jesus,Man City,Aston Villa,0.2710676410158924
+10,469,Daniel Ceballos Fernández,Arsenal,Crystal Palace,0.27060311083836996
+10,21,Matteo Guendouzi,Arsenal,Crystal Palace,0.270491027315618
+10,168,Kasper Schmeichel,Leicester,Southampton,0.26960184151030564
+10,518,João Pedro Cavaco Cancelo,Man City,Aston Villa,0.2695729964064622
+10,54,Davy Pröpper,Brighton,Everton,0.26675667852581825
+10,476,Philip Billing,Bournemouth,Watford,0.2663610186283877
+10,63,Adam Smith,Bournemouth,Watford,0.26623272739520915
+10,94,Tom Heaton,Aston Villa,Man City,0.2643906945766667
+10,338,Harry Kane,Tottenham,Liverpool,0.2628897020388157
+10,493,Adam Webster,Brighton,Everton,0.2601417670307942
+10,153,Theo Walcott,Everton,Brighton,0.2586202370011213
+10,378,Arthur Masuaku,West Ham,Sheff Utd,0.2581395449797971
+10,415,João Filipe Iria Santos Moutinho,Wolves,Newcastle,0.25712595084096
+10,304,Jannik Vestergaard,Southampton,Leicester,0.25629225071044365
+10,265,Ayoze Pérez,Leicester,Southampton,0.25508413487878484
+10,183,Virgil van Dijk,Liverpool,Tottenham,0.2508471309850022
+10,274,Maximillian Aarons,Norwich,Man Utd,0.2480266066377285
+10,164,Çaglar Söyüncü,Leicester,Southampton,0.2461903121985872
+10,401,Matt Doherty,Wolves,Newcastle,0.2452027793583204
+10,199,Georginio Wijnaldum,Liverpool,Tottenham,0.24370367726944744
+10,85,Matthew Lowton,Burnley,Chelsea,0.24264535484589744
+10,276,Jamal Lewis,Norwich,Man Utd,0.24175361010928798
+10,143,Michael Keane,Everton,Brighton,0.2404057322191109
+10,239,Anthony Martial,Man Utd,Norwich,0.24018519339459446
+10,417,Adama Traoré,Wolves,Newcastle,0.2398420997347146
+10,142,Yerry Mina,Everton,Brighton,0.2396462417438796
+10,162,Jonny Evans,Leicester,Southampton,0.23884222599718916
+10,222,Ilkay Gündogan,Man City,Aston Villa,0.2380157680785364
+10,391,Manuel Lanzini,West Ham,Sheff Utd,0.2369141489833492
+10,259,Ciaran Clark,Newcastle,Wolves,0.23546632755778196
+10,262,Martin Dubravka,Newcastle,Wolves,0.2349089488951557
+10,17,Alex Iwobi,Everton,Brighton,0.23474715252435405
+10,188,Divock Origi,Liverpool,Tottenham,0.2345233702226117
+10,132,Wayne Hennessey,Crystal Palace,Arsenal,0.2342919866308764
+10,123,Patrick van Aanholt,Crystal Palace,Arsenal,0.2341020262048216
+10,411,Rui Pedro dos Santos Patrício,Wolves,Newcastle,0.2316731013106705
+10,103,Marcos Alonso,Chelsea,Burnley,0.2316653490555687
+10,12,Alexandre Lacazette,Arsenal,Crystal Palace,0.2314802029165967
+10,410,Diogo Jota,Wolves,Newcastle,0.2313879477079369
+10,91,Chris Wood,Burnley,Chelsea,0.2298159620030004
+10,443,Rodrigo Hernandez,Man City,Aston Villa,0.22849323553128945
+10,134,Luka Milivojevic,Crystal Palace,Arsenal,0.22815925457152245
+10,511,Djibril Sidibé,Everton,Brighton,0.2278469873656835
+10,124,James Tomkins,Crystal Palace,Arsenal,0.22515959371481156
+10,93,Nick Pope,Burnley,Chelsea,0.2243060329740836
+10,118,Jorge Luiz Frello Filho,Chelsea,Burnley,0.22395090674704568
+10,151,Gylfi Sigurdsson,Everton,Brighton,0.22362874865810956
+10,380,Ryan Fredericks,West Ham,Sheff Utd,0.2234227784901988
+10,541,Bukayo Saka,Arsenal,Crystal Palace,0.22255748926729504
+10,445,Tyrone Mings,Aston Villa,Man City,0.22208700767648606
+10,195,Adam Lallana,Liverpool,Tottenham,0.22190359830777195
+10,395,Declan Rice,West Ham,Sheff Utd,0.21932632033128785
+10,225,Victor Lindelöf,Man Utd,Norwich,0.21909158824275785
+10,420,Leander Dendoncker,Wolves,Newcastle,0.21784079213180574
+10,405,Willy Boly,Wolves,Newcastle,0.21749919610327054
+10,507,Ibrahim Amadou,Norwich,Man Utd,0.21714918847956846
+10,97,Dwight McNeil,Burnley,Chelsea,0.2160155998999498
+10,197,Fabio Henrique Tavares,Liverpool,Tottenham,0.2154218176912329
+10,113,Willian Borges Da Silva,Chelsea,Burnley,0.2141576524220747
+10,198,Jordan Henderson,Liverpool,Tottenham,0.21354971705441614
+10,321,James Ward-Prowse,Southampton,Leicester,0.2127015160447938
+10,359,Daryl Janmaat,Watford,Bournemouth,0.2116605742501307
+10,248,Scott McTominay,Man Utd,Norwich,0.21014047699665986
+10,83,Ben Mee,Burnley,Chelsea,0.2096358126938497
+10,207,John Stones,Man City,Aston Villa,0.20867109585068175
+10,133,Wilfried Zaha,Crystal Palace,Arsenal,0.20864052176503808
+10,84,James Tarkowski,Burnley,Chelsea,0.20770315360151345
+10,116,Callum Hudson-Odoi,Chelsea,Burnley,0.2074042858781761
+10,354,Christian Kabasele,Watford,Bournemouth,0.20459033392895326
+10,117,Ross Barkley,Chelsea,Burnley,0.20249223024842009
+10,414,Rúben Diogo da Silva Neves,Wolves,Newcastle,0.20135100998949154
+10,439,Craig Dawson,Watford,Bournemouth,0.2008491415201744
+10,403,Conor Coady,Wolves,Newcastle,0.20027284587285998
+10,309,Matt Targett,Aston Villa,Man City,0.19973154051559708
+10,252,Fabian Schär,Newcastle,Wolves,0.19882020041765647
+10,176,Wilfred Ndidi,Leicester,Southampton,0.19793263929935748
+10,475,Dan Burn,Brighton,Everton,0.1977145926056254
+10,220,Phil Foden,Man City,Aston Villa,0.19623127285382616
+10,468,Jordan Ayew,Crystal Palace,Arsenal,0.19610520581713003
+10,101,Ashley Westwood,Burnley,Chelsea,0.1946195994512296
+10,473,Jesús Vallejo Lázaro,Wolves,Newcastle,0.19431055127185526
+10,193,Alex Oxlade-Chamberlain,Liverpool,Tottenham,0.19265050149703744
+10,79,Lewis Cook,Bournemouth,Watford,0.18723810377256328
+10,506,Reece James,Chelsea,Burnley,0.18702964598089733
+10,38,Martín Montoya,Brighton,Everton,0.1868190102279923
+10,291,Enda Stevens,Sheff Utd,West Ham,0.18642732601740886
+10,70,Lys Mousset,Sheff Utd,West Ham,0.18632793906480327
+10,227,Marcos Rojo,Man Utd,Norwich,0.18616402456164094
+10,363,Gerard Deulofeu,Watford,Bournemouth,0.1860206108802842
+10,100,Jeff Hendrick,Burnley,Chelsea,0.1859902914298601
+10,431,Christian Pulisic,Chelsea,Burnley,0.1847133613095639
+10,258,Jamaal Lascelles,Newcastle,Wolves,0.1839854166909181
+10,98,Robbie Brady,Burnley,Chelsea,0.18382514439670306
+10,221,Fernando Luiz Rosa,Man City,Aston Villa,0.18347878229196787
+10,549,Brandon Williams,Man Utd,Norwich,0.18316908980748128
+10,224,Ashley Young,Man Utd,Norwich,0.18258567479042165
+10,294,George Baldock,Sheff Utd,West Ham,0.18245011381701726
+10,295,John Egan,Sheff Utd,West Ham,0.1823896366399221
+10,253,DeAndre Yedlin,Newcastle,Wolves,0.18232359085121866
+10,319,Angus Gunn,Southampton,Leicester,0.1817029004874917
+10,92,Matej Vydra,Burnley,Chelsea,0.1805042157032668
+10,341,Paulo Gazzaniga,Tottenham,Liverpool,0.18023430637104376
+10,390,Felipe Anderson Pereira Gomes,West Ham,Sheff Utd,0.17989761635052487
+10,270,Sean Longstaff,Newcastle,Wolves,0.17858286290483466
+10,503,Gary Cahill,Crystal Palace,Arsenal,0.17753411074083686
+10,498,Jetro Willems,Newcastle,Wolves,0.17723166802924115
+10,447,Erik Pieters,Burnley,Chelsea,0.17663275575038173
+10,470,Douglas Luiz Soares de Paulo,Aston Villa,Man City,0.1763187709632204
+10,505,Harry Wilson,Bournemouth,Watford,0.17602388493103935
+10,28,Conor Hourihane,Aston Villa,Man City,0.1756581230469085
+10,126,Joel Ward,Crystal Palace,Arsenal,0.1752583961439478
+10,466,Joelinton Cássio Apolinário de Lira,Newcastle,Wolves,0.17446062934771345
+10,266,Miguel Almirón,Newcastle,Wolves,0.1737461486979498
+10,402,Jonathan Castro Otto,Wolves,Newcastle,0.1725217585380176
+10,196,Naby Keita,Liverpool,Tottenham,0.17031276315763352
+10,423,Chris Basham,Sheff Utd,West Ham,0.17007668184314714
+10,490,Joseph Willock,Arsenal,Crystal Palace,0.1690861430179581
+10,37,Shane Duffy,Brighton,Everton,0.1678186714829095
+10,246,Andreas Pereira,Man Utd,Norwich,0.16764069982466887
+10,273,Ben Godfrey,Norwich,Man Utd,0.1663012671940046
+10,129,Christian Benteke,Crystal Palace,Arsenal,0.16612009273987885
+10,504,Gabriel Teodoro Martinelli Silva,Arsenal,Crystal Palace,0.16589118327825975
+10,399,Pablo Fornals,West Ham,Sheff Utd,0.16524025926487948
+10,244,Frederico Rodrigues de Paula Santos,Man Utd,Norwich,0.16467887804474682
+10,135,Andros Townsend,Crystal Palace,Arsenal,0.1644673125702053
+10,55,Solomon March,Brighton,Everton,0.16421354247709016
+10,501,Oliver McBurnie,Sheff Utd,West Ham,0.16347980379420834
+10,459,Kurt Zouma,Chelsea,Burnley,0.1627246490064591
+10,487,Patrick Cutrone,Wolves,Newcastle,0.16197342117650604
+10,369,Roberto Pereyra,Watford,Bournemouth,0.161517933339487
+10,540,Matthew Longstaff,Newcastle,Wolves,0.16079538103273333
+10,455,Bjorn Engels,Aston Villa,Man City,0.16055762079467475
+10,290,Tom Trybull,Norwich,Man Utd,0.16042652974238325
+10,500,Allan Saint-Maximin,Newcastle,Wolves,0.1603557263754214
+10,331,Toby Alderweireld,Tottenham,Liverpool,0.160208728425994
+10,366,Ben Foster,Watford,Bournemouth,0.15961605803166584
+10,289,Alexander Tettey,Norwich,Man Utd,0.1591804997322242
+10,325,Pierre-Emile Højbjerg,Southampton,Leicester,0.1591695744865905
+10,301,John Fleck,Sheff Utd,West Ham,0.158752474871966
+10,368,Abdoulaye Doucouré,Watford,Bournemouth,0.15778549567803735
+10,267,Christian Atsu,Newcastle,Wolves,0.1576071754430154
+10,165,Wes Morgan,Leicester,Southampton,0.15730871093141466
+10,358,Craig Cathcart,Watford,Bournemouth,0.15702337280602818
+10,320,Nathan Redmond,Southampton,Leicester,0.15681138759081836
+10,374,Nathaniel Chalobah,Watford,Bournemouth,0.1563730787124457
+10,288,Moritz Leitner,Norwich,Man Utd,0.15507703174590634
+10,491,Marvelous Nakamba,Aston Villa,Man City,0.15503939255099952
+10,346,Erik Lamela,Tottenham,Liverpool,0.15307942990423698
+10,307,Jan Bednarek,Southampton,Leicester,0.15302625192731747
+10,18,Granit Xhaka,Arsenal,Crystal Palace,0.15289923801950342
+10,514,Albian Ajeti,West Ham,Sheff Utd,0.152735704374646
+10,432,Mateo Kovacic,Chelsea,Burnley,0.1520109919527182
+10,286,Kenny McLean,Norwich,Man Utd,0.15028900209012086
+10,310,Maya Yoshida,Southampton,Leicester,0.1496086182550023
+10,451,Jay Rodriguez,Burnley,Chelsea,0.14900765037181193
+10,371,Tom Cleverley,Watford,Bournemouth,0.1484877824745086
+10,458,Frédéric Guilbert,Aston Villa,Man City,0.1478536704662686
+10,396,Mark Noble,West Ham,Sheff Utd,0.14722889083692328
+10,394,Jack Wilshere,West Ham,Sheff Utd,0.14658002139257062
+10,175,Demarai Gray,Leicester,Southampton,0.1453885686870535
+10,404,Ryan Bennett,Wolves,Newcastle,0.14483179336595475
+10,127,Scott Dann,Crystal Palace,Arsenal,0.1440090315825316
+10,517,Dennis Praet,Leicester,Southampton,0.14354762609658167
+10,284,Onel Hernández,Norwich,Man Utd,0.14320325092314026
+10,138,James McArthur,Crystal Palace,Arsenal,0.14236871087774533
+10,139,Cheikhou Kouyaté,Crystal Palace,Arsenal,0.14001811759143734
+10,154,Tom Davies,Everton,Brighton,0.13917058302055316
+10,442,Tanguy Ndombele,Tottenham,Liverpool,0.1386058188295912
+10,344,Bamidele Alli,Tottenham,Liverpool,0.1385082467525573
+10,537,Steven Alzate,Brighton,Everton,0.13808599531336688
+10,332,Danny Rose,Tottenham,Liverpool,0.13732631721531444
+10,298,Billy Sharp,Sheff Utd,West Ham,0.13698916847590956
+10,512,Danny Welbeck,Watford,Bournemouth,0.13692544565871634
+10,303,David McGoldrick,Sheff Utd,West Ham,0.13654167103178833
+10,516,Aaron Mooy,Brighton,Everton,0.13613490440201498
+10,302,Oliver Norwood,Sheff Utd,West Ham,0.1353661361542458
+10,345,Lucas Rodrigues Moura da Silva,Tottenham,Liverpool,0.1344884019151562
+10,520,Andy Carroll,Newcastle,Wolves,0.13425153852660932
+10,336,Serge Aurier,Tottenham,Liverpool,0.13288966163745225
+10,441,Luke Freeman,Sheff Utd,West Ham,0.1323296265814862
+10,496,Moise Kean,Everton,Brighton,0.13229601930291898
+10,34,Keinan Davis,Aston Villa,Man City,0.13057905638403186
+10,279,Dennis Srbeny,Norwich,Man Utd,0.1279212486703694
+10,357,Francisco Femenía Far,Watford,Bournemouth,0.1278437698411274
+10,137,Jeffrey Schlupp,Crystal Palace,Arsenal,0.12662795303755808
+10,554,Dwight Gayle,Newcastle,Wolves,0.12626437971773674
+10,508,Sofiane Boufal,Southampton,Leicester,0.12376147026710925
+10,422,André Filipe Tavares Gomes,Everton,Brighton,0.1235971659491776
+10,370,Will Hughes,Watford,Bournemouth,0.12191043383227555
+10,430,Aaron Lennon,Burnley,Chelsea,0.1214453903427532
+10,353,José Holebas,Watford,Bournemouth,0.12141347368321295
+10,333,Davinson Sánchez,Tottenham,Liverpool,0.11926251890502275
+10,306,Yan Valery,Southampton,Leicester,0.11805138043059896
+10,328,Oriol Romeu Vidal,Southampton,Leicester,0.11668041800967507
+10,465,Mahmoud Ahmed Ibrahim Hassan,Aston Villa,Man City,0.11553012178789245
+10,305,Ryan Bertrand,Southampton,Leicester,0.11246230022889113
+10,330,Jan Vertonghen,Tottenham,Liverpool,0.11105635628313601
+10,478,Mason Holgate,Everton,Brighton,0.1098058237367676
+10,349,Moussa Sissoko,Tottenham,Liverpool,0.10295909132972762
+10,532,Kevin Danso,Southampton,Leicester,0.1029376868383315
+10,347,Harry Winks,Tottenham,Liverpool,0.0978998751233334
