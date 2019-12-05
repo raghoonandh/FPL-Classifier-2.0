@@ -16,8 +16,8 @@ This repo will contain all the model outputs of FPL classifier Model for each ga
 
 ##### Q1 (Gameweek 3-11)
 
-![Prediction vs Actual](ModelPerformanceQ1-Table.png)
-![Calibration Graph](ModelPerformanceQ1-Graph.png)
+![Prediction vs Actual](ModelPerformanceQ1_Table.png)
+![Calibration Graph](ModelPerformanceQ1-Graph.jpeg)
 
   
 
